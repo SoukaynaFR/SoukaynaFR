@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soukayna</h1>
 <h3 align="center">A passionate Software Engineering Student from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif">
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif">
 
 
 
-- 🌱 I’m currently learning **MEAN Stack developement and UX/UI Design**
+- 🌱 I’m currently learning **MEAN Stack development and UX/UI Design**
 
 - 👯 I’m looking to collaborate on **MEAN Stack / UX Projects**
 
