@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **MEAN Stack / UX Projects**
 
-- 💬 Ask me about **VueJs , Angular ...**
+- 💬 Ask me about **VueJs , Angular , WordPress ...**
 
-- 📫 How to reach me **soukaynafr2019@gmail.com**
+- 📫 How to reach me **soukayna.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
