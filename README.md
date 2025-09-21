@@ -9,16 +9,17 @@
 
 ---
 
-<div align="center">
+<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SoukaynaFR&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoukaynaFR&layout=compact&langs_count=5&theme=vision-friendly-dark" height="150" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SoukaynaFR&theme=dracula&no-bg=true" height="150" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SoukaynaFR&theme=dracula&no-bg=true" height="150" alt="Trophies" style="float:left; margin-right:20px;" />
+
 </div>
 
 ---
 
 <h4 align="left">🛠 Languages & Tools</h4>
-<div align="left">
+<div align="left" style="margin-bottom: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" /> <img width="10" />
@@ -34,7 +35,7 @@
 ---
 
 <h4 align="left">🔗 Connect with me</h4>
-<div align="left">
+<div align="left" style="margin-bottom: 40px;">
   <a href="https://www.instagram.com/soukayna_elf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram" />
   </a>
