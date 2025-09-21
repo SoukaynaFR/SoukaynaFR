@@ -6,8 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWphc201ZTh2M3h1OG5naXZyazBhaDhvMXQzb25xNnF6M3c3NjBsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.gif"  />
-
+<img align="right" height="200" src="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/main/giphy.gif" alt="Coding girl" /> 
 ###
 
 <h5 align="left">My toolkit spans Java & Spring Boot, SAP basics, and full-stack development with Angular/Vue, Node.js, and MongoDB ...</h5>
