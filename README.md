@@ -1,21 +1,13 @@
 <h2 align="left">Hi 👋, I'm Soukayna</h2>
+<img align="right" height="150" src="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/main/giphy.gif" alt="Coding girl" />
 
-<div style="display: flex; flex-direction: row;">
 
-  <!-- Left: Text (70%) -->
-  <div style="flex: 4;">
-    <h4>A Final-year Software Engineering Student 👩‍💻 passionate about designing and developing reliable software systems.</h4>
-    <h4>💻 My toolkit: Java & Spring Boot, SAP basics, full-stack development with Angular/Vue, Node.js, and MongoDB.</h4>
-    <h4>📫 Reach me at: soukayna.tech@gmail.com</h4>
-  </div>
+<h4 align="left"> A Final-year Software Engineering Student  👩‍💻 <br> passionate about designing and developing reliable software systems.</h4>
 
-  <!-- Right: Image (30%) -->
-  <div style="flex: 6;">
-    <img src="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/main/giphy.gif" alt="Coding girl" style="height: 200; max-width: 200;" />
-  </div>
 
-</div>
+<h4 align="left">💻 My toolkit: Java & Spring Boot, SAP basics, full-stack development with Angular/Vue, Node.js, and MongoDB.</h4>
 
+<h4 align="left">📫 Reach me at : soukayna.tech@gmail.com</h4>
 
 
 ---
