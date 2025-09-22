@@ -2,7 +2,7 @@
 <img align="right" height="150" src="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/main/giphy.gif" alt="Coding girl" />
 
 
-<h4 align="left"> A Final-year Software Engineering Student  👩‍💻 <br> passionate about designing and developing reliable software systems.</h4>
+<h4 align="left"> A Final-year Software Engineering Student  👩‍💻 <br> Passionate about designing and developing reliable software systems.</h4>
 
 
 <h4 align="left">💻 My toolkit: Java & Spring Boot, SAP basics, full-stack development with Angular/Vue, Node.js, and MongoDB.</h4>
