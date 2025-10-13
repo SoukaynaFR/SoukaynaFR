@@ -14,7 +14,7 @@
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SoukaynaFR&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoukaynaFR&layout=compact&langs_count=5&theme=vision-friendly-dark" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoukaynaFR&layout=compact&langs_count=6&theme=vision-friendly-dark" height="150" alt="Top languages" />
     <img src="https://github-profile-trophy.vercel.app/?username=SoukaynaFR&theme=dracula&no-bg=true" height="150" alt="Trophies" style="float:left; margin-right:20px;" />
 
 </div>
