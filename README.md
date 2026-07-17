@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:2563EB&height=220&section=header&text=Hi%2C%20I'm%20Soukayna&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%C2%B7%20Java%20%C2%B7%20Angular%20%C2%B7%20Azure&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+enterprise-grade+apps+with+.NET+%26+Azure;Building+enterprise-grade+apps+with+Java+%26+Spring+Boot;Clean+Architecture+%7C+DDD+%7C+CQRS+%7C+Microservices;Final-year+Software+Engineering+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+enterprise-grade+apps+with+.NET+%26+Azure;Building+enterprise-grade+apps+with+Java+%26+Spring+Boot;Clean+Architecture+%7C+DDD+%7C+CQRS+%7C+Microservices;Powered+by+violet+and+too+much+coffee+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=SoukaynaFR&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
@@ -18,7 +18,7 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-I'm a final-year **Software Engineering student** who builds reliable, well-architected software rather than just "code that works." What sets me apart is that I'm comfortable across **two enterprise ecosystems** most engineers only pick one of:
+I'm a **Software Engineer** who builds reliable, well-architected software rather than just "code that works." What sets me apart is that I'm comfortable across **two enterprise ecosystems** most engineers only pick one of:
 
 - 💜 **Microsoft stack** — .NET, ASP.NET Core, Azure
 - ☕ **Java stack** — Spring Boot, Spring Security, Hibernate
@@ -31,23 +31,38 @@ That dual fluency means I can slot into almost any enterprise or consulting envi
 - 💬 Ask me about **Clean Architecture, DDD, CQRS, or REST API design**
 - 📫 Reach me at **soukayna.tech@gmail.com**
 
+Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book 📚, laughing at a comedy 🎬, or crossing something off my bucket list ✈️ — and yes, everything I own is somehow violet 💜.
+
 <br clear="right"/>
 
 ---
 
-## 🏗️ Engineering Principles
+## 🏗️ How I Build
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Principle | Principle | Principle |
-|:---:|:---:|:---:|
-| ✅ Clean Architecture | ✅ SOLID | ✅ Domain-Driven Design |
-| ✅ REST API Design | ✅ Auth & Authorization (JWT) | ✅ CI/CD Pipelines |
-| ✅ Docker & Containerization | ✅ Cloud Deployment (Azure) | ✅ Agile Development |
+**⚙️ Engineering Principles**
 
-*This is how I build software — not just what languages I know.*
+✔ Clean Architecture &nbsp; ✔ SOLID<br/>
+✔ Domain-Driven Design &nbsp; ✔ CQRS<br/>
+✔ REST API Design &nbsp; ✔ JWT Auth<br/>
+✔ CI/CD &nbsp; ✔ Docker &nbsp; ✔ Azure
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**🧠 How I Think**
+
+🧩 Problem solver — the messier, the better<br/>
+🎨 Detail-obsessed — pixel-perfect is a minimum<br/>
+🌱 Forever curious — usually via a 2am rabbit hole<br/>
+💬 Can explain a gnarly bug without losing you
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -98,7 +113,7 @@ Permissioned blockchain network exploring distributed ledger concepts for secure
 </tr>
 </table>
 
-> 💡 *Update the repo links above once you paste this in — replace `REPO_NAME` with your actual repository names.*
+> 💡 *Swap `REPO_NAME` for your actual repo names once this is live.*
 
 </div>
 
@@ -108,60 +123,33 @@ Permissioned blockchain network exploring distributed ledger concepts for secure
 
 <div align="center">
 
-### Backend
+**Backend**<br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-### Frontend
+**Frontend**<br/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PrimeNG-0E4C92?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 
-### Databases
+**Databases**<br/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### Cloud, DevOps & Architecture
+**Cloud & Tools**<br/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
-
----
-
-## 🏛️ How I Architect
-
-```mermaid
-graph TB
-    A[Angular / React Client] --> B[API Gateway]
-    B --> C[Application Layer<br/>CQRS · MediatR]
-    C --> D[Domain Layer<br/>DDD]
-    C --> E[Infrastructure<br/>EF Core / Hibernate]
-    E --> F[(SQL Server / PostgreSQL)]
-    D --> F
-
-    style D fill:#5B21B6,color:#fff
-    style C fill:#2563EB,color:#fff
-    style A fill:#7C3AED,color:#fff
-```
 
 ---
 
@@ -221,10 +209,8 @@ graph TB
 
 <div align="center">
 
-### 💜 *"I don't just write code — I engineer systems built to last."*
+<i>"good code is felt, not just seen."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:5B21B6&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-
-**⭐ If any of my repos are useful to you, a star means a lot!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:5B21B6&height=120&section=footer" width="100%"/>
 
 </div>
