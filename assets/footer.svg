@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="25" width="1200" height="90" fill="#211D33"/>
+    <circle cx="15" cy="25" r="15" fill="#211D33"/>
+    <circle cx="45" cy="25" r="15" fill="#211D33"/>
+    <circle cx="75" cy="25" r="15" fill="#211D33"/>
+    <circle cx="105" cy="25" r="15" fill="#211D33"/>
+    <circle cx="135" cy="25" r="15" fill="#211D33"/>
+    <circle cx="165" cy="25" r="15" fill="#211D33"/>
+    <circle cx="195" cy="25" r="15" fill="#211D33"/>
+    <circle cx="225" cy="25" r="15" fill="#211D33"/>
+    <circle cx="255" cy="25" r="15" fill="#211D33"/>
+    <circle cx="285" cy="25" r="15" fill="#211D33"/>
+    <circle cx="315" cy="25" r="15" fill="#211D33"/>
+    <circle cx="345" cy="25" r="15" fill="#211D33"/>
+    <circle cx="375" cy="25" r="15" fill="#211D33"/>
+    <circle cx="405" cy="25" r="15" fill="#211D33"/>
+    <circle cx="435" cy="25" r="15" fill="#211D33"/>
+    <circle cx="465" cy="25" r="15" fill="#211D33"/>
+    <circle cx="495" cy="25" r="15" fill="#211D33"/>
+    <circle cx="525" cy="25" r="15" fill="#211D33"/>
+    <circle cx="555" cy="25" r="15" fill="#211D33"/>
+    <circle cx="585" cy="25" r="15" fill="#211D33"/>
+    <circle cx="615" cy="25" r="15" fill="#211D33"/>
+    <circle cx="645" cy="25" r="15" fill="#211D33"/>
+    <circle cx="675" cy="25" r="15" fill="#211D33"/>
+    <circle cx="705" cy="25" r="15" fill="#211D33"/>
+    <circle cx="735" cy="25" r="15" fill="#211D33"/>
+    <circle cx="765" cy="25" r="15" fill="#211D33"/>
+    <circle cx="795" cy="25" r="15" fill="#211D33"/>
+    <circle cx="825" cy="25" r="15" fill="#211D33"/>
+    <circle cx="855" cy="25" r="15" fill="#211D33"/>
+    <circle cx="885" cy="25" r="15" fill="#211D33"/>
+    <circle cx="915" cy="25" r="15" fill="#211D33"/>
+    <circle cx="945" cy="25" r="15" fill="#211D33"/>
+    <circle cx="975" cy="25" r="15" fill="#211D33"/>
+    <circle cx="1005" cy="25" r="15" fill="#211D33"/>
+    <circle cx="1035" cy="25" r="15" fill="#211D33"/>
+    <circle cx="1065" cy="25" r="15" fill="#211D33"/>
+    <circle cx="1095" cy="25" r="15" fill="#211D33"/>
+    <circle cx="1125" cy="25" r="15" fill="#211D33"/>
+    <circle cx="1155" cy="25" r="15" fill="#211D33"/>
+    <circle cx="1185" cy="25" r="15" fill="#211D33"/>
+  <text x="600.0" y="80" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#C9BFE8" text-anchor="middle">"good code is felt, not just seen."</text>
+</svg>
