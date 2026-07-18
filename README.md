@@ -46,24 +46,24 @@ Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book
 <table>
 <tr>
 <td width="50%" valign="top">
-
 **⚙️ Engineering Principles**
-
-✔ Clean Architecture &nbsp; ✔ SOLID<br/>
-✔ Domain-Driven Design &nbsp; ✔ CQRS<br/>
-✔ REST API Design &nbsp; ✔ JWT Auth<br/>
-✔ CI/CD &nbsp; ✔ Docker &nbsp; ✔ Azure
-
+ 
+🏛️ **Clean Architecture**<br/>
+🎯 **Domain-Driven Design**<br/>
+🧠 **SOLID principles**<br/>
+🔀 **CQRS**<br/>
+🔐 **REST & JWT Auth**<br/>
+🐳 **CI/CD & Docker**
+ 
 </td>
 <td width="50%" valign="top">
-
 **🧠 How I Think**
-
+ 
 🧩 Problem solver — the messier, the better<br/>
 🎨 Detail-obsessed — pixel-perfect is a minimum<br/>
 🌱 Forever curious — usually via a 2am rabbit hole<br/>
 💬 Can explain a gnarly bug without losing you
-
+ 
 </td>
 </tr>
 </table>
