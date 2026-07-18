@@ -70,20 +70,19 @@ Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book
 
 ---
 
-## 🏆 Certifications
+🏆 Certifications
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/ORACLE-8B78FF?style=for-the-badge&logo=oracle&logoColor=white" width="200"/>
+<img src="https://img.shields.io/badge/ORACLE-8B78FF?style=for-the-badge&logo=oracle&logoColor=white" width="200" height="55"/>
 <h4>Java SE 17 Developer</h4>
 <p><sub><b>1Z0-829</b> — Oracle Certified Professional · Nov 2025</sub></p>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1DD7E330CBADFC4EFA49768116406E9E2B806C7B5936C0AF0AFF2269DB90DE69"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/SAP-8B78FF?style=for-the-badge&logo=sap&logoColor=white" width="200"/>
+<img src="https://img.shields.io/badge/SAP-8B78FF?style=for-the-badge&logo=sap&logoColor=white" width="200" height="55"/>
 <h4>SAP Business Technology Platform</h4>
 <p><sub>SAP Learning · Jul 2025</sub></p>
 <a href="https://www.credly.com/badges/4e72ed36-3d89-4bfc-b150-c8b245743bf6/linked_in_profile"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
@@ -91,20 +90,19 @@ Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/COURSERA-8B78FF?style=for-the-badge&logo=coursera&logoColor=white" width="200"/>
+<img src="https://img.shields.io/badge/COURSERA-8B78FF?style=for-the-badge&logo=coursera&logoColor=white" width="200" height="55"/>
 <h4>Generative AI: Prompt Engineering</h4>
 <p><sub>Coursera · Apr 2025</sub></p>
 <a href="https://www.credly.com/badges/7903e0aa-2bd5-49d7-8205-e22f997df8e7/linked_in_profile"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/LINKEDIN-8B78FF?style=for-the-badge&logo=linkedin&logoColor=white" width="200"/>
+<img src="https://img.shields.io/badge/LINKEDIN-8B78FF?style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="55"/>
 <h4>DevOps Foundations</h4>
 <p><sub>LinkedIn Learning · Aug 2023</sub></p>
 <a href="https://www.linkedin.com/learning/certificates/6b5b12129301003f50cf019befb9602ff2d99553ff10c87c86daec18caa5f4e4/"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
