@@ -43,30 +43,11 @@ Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book
 
 ## 🏗️ How I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
- ⚙️ Engineering Principles
+Principles that actually shape day-to-day decisions, not just words on a slide:
  
-🏛️ **Clean Architecture**<br/>
-🎯 **Domain-Driven Design**<br/>
-🧠 **SOLID principles**<br/>
-🔀 **CQRS**<br/>
-🔐 **REST & JWT Auth**<br/>
-🐳 **CI/CD & Docker**
+<img src="https://img.shields.io/badge/Clean_Architecture-211D33?style=flat-square&color=8B78FF"/> <img src="https://img.shields.io/badge/Domain--Driven_Design-211D33?style=flat-square&color=8B78FF"/> <img src="https://img.shields.io/badge/CQRS-211D33?style=flat-square&color=8B78FF"/> <img src="https://img.shields.io/badge/REST_%26_JWT_Auth-211D33?style=flat-square&color=8B78FF"/> <img src="https://img.shields.io/badge/CI%2FCD_%26_Docker-211D33?style=flat-square&color=8B78FF"/>
  
-</td>
-<td width="50%" valign="top">
-🧠 How I Think
- 
-🧩 Problem solver — the messier, the better<br/>
-🎨 Detail-obsessed — pixel-perfect is a minimum<br/>
-🌱 Forever curious — usually via a 2am rabbit hole<br/>
-💬 Can explain a gnarly bug without losing you
- 
-</td>
-</tr>
-</table>
+And under the hood, the way I actually work: I'm the kind of engineer who enjoys untangling the messiest problems, treats pixel-perfect as a baseline rather than a bonus, and is usually mid-way through a 2am rabbit hole on something nobody asked me to learn.
 
 ---
 
