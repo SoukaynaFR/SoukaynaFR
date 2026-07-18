@@ -1,17 +1,12 @@
 <div align="center">
-
 <img src="./assets/header.svg" width="100%"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+enterprise-grade+apps+with+.NET+%26+Azure;Building+enterprise-grade+apps+with+Java+%26+Spring+Boot;Clean+Architecture+%7C+DDD+%7C+CQRS+%7C+Microservices;Powered+by+violet+and+too+much+coffee+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=C9BFE8&center=true&vCenter=true&width=780&height=40&lines=Building+enterprise-grade+apps+with+.NET+%26+Azure;Building+enterprise-grade+apps+with+Java+%26+Spring+Boot;Clean+Architecture+%7C+DDD+%7C+CQRS+%7C+Microservices;Powered+by+violet+and+too+much+coffee+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
 
-
-<img src="https://img.shields.io/github/followers/SoukaynaFR?label=Followers&style=flat-square&color=7C3AED&logo=github" alt="followers" />
-<img src="https://img.shields.io/badge/Open_to-Consulting_%26_Full--time_Roles-2563EB?style=flat-square" alt="open to work" />
-
+<img src="https://img.shields.io/github/followers/SoukaynaFR?label=Followers&style=flat-square&labelColor=211D33&color=8B78FF&logo=github&logoColor=white" alt="followers" />
+<img src="https://img.shields.io/badge/Open_to-Consulting_%26_Full--time_Roles-8B78FF?style=flat-square&labelColor=211D33" alt="open to work" />
 </div>
-
 <br/>
 
 ## 👋 About Me
@@ -20,7 +15,7 @@
 <tr>
 <td width="68%" valign="top">
 
-I'm a **Software Engineer** who builds reliable, well-architected software rather than just "code that works." I move between two enterprise ecosystems depending on what the problem calls for:
+I'm a **Software Engineer** who builds reliable, well-architected software rather than just "code that works." I move between two enterprise :
 
 - 💜 **Microsoft stack** — .NET, ASP.NET Core, Azure
 - ☕ **Java stack** — Spring Boot, Spring Security, Hibernate
@@ -29,7 +24,6 @@ Which means I can slot into a .NET shop or a Java shop equally well, without a r
 
 - 🔭 Currently building full-stack applications with **Angular + Spring Boot / .NET**
 - 🌱 Deepening my knowledge of **microservices, Docker, and Azure DevOps**
-- 🧠 Exploring **SAP fundamentals** alongside traditional web architecture
 - 💬 Ask me about **Clean Architecture, DDD, CQRS, or REST API design**
 - 📫 Reach me at **soukayna.tech@gmail.com**
 
@@ -42,7 +36,7 @@ Which means I can slot into a .NET shop or a Java shop equally well, without a r
 </tr>
 </table>
 
-Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book 📚, laughing at a comedy 🎬, or crossing something off my bucket list ✈️ — and yes, everything I own is somehow violet 💜.
+Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book 📚 or laughing at a comedy 🎬 — and yes, everything I own is somehow violet 💜.
 
 
 ---
