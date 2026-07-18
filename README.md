@@ -148,9 +148,10 @@ Grouped by how I actually reach for them — not just a wall of logos.
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=SoukaynaFR&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&border_radius=12"/>
+
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoukaynaFR&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&border_radius=12"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SoukaynaFR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoukaynaFR&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=c9d1d9&border_radius=12"/>
 
 ### 🗓️ Contribution Calendar
