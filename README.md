@@ -15,7 +15,7 @@
 <tr>
 <td width="68%" valign="top">
 
-I'm a **Software Engineer** who builds reliable, well-architected software rather than just "code that works." I move between two enterprise :
+I'm a **Software Engineer** who builds reliable, well-architected software rather than just "code that works." I move between two systems :
 
 - 💜 **Microsoft stack** — .NET, ASP.NET Core, Azure
 - ☕ **Java stack** — Spring Boot, Spring Security, Hibernate
@@ -51,7 +51,7 @@ And under the hood, the way I actually work: I'm the kind of engineer who enjoys
 
 ---
 
-🏆 Certifications
+## 🏆 Certifications
 
 <div align="center">
 <table>
