@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+enterprise-grade+apps+with+.NET+%26+Azure;Building+enterprise-grade+apps+with+Java+%26+Spring+Boot;Clean+Architecture+%7C+DDD+%7C+CQRS+%7C+Microservices;Powered+by+violet+and+too+much+coffee+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SoukaynaFR&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
+
 <img src="https://img.shields.io/github/followers/SoukaynaFR?label=Followers&style=flat-square&color=7C3AED&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/Open_to-Consulting_%26_Full--time_Roles-2563EB?style=flat-square" alt="open to work" />
 
@@ -76,54 +76,40 @@ Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Certifications
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 📋 Project Management System
-Full-stack enterprise app for managing teams, tasks, and timelines with role-based access control.
-
-`Spring Boot` `Angular` `PostgreSQL` `JWT`
-
-<a href="https://github.com/SoukaynaFR/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/ORACLE-8B78FF?style=for-the-badge&logo=oracle&logoColor=white" width="200"/>
+<h4>Java SE 17 Developer</h4>
+<p><sub><b>1Z0-829</b> — Oracle Certified Professional · Nov 2025</sub></p>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1DD7E330CBADFC4EFA49768116406E9E2B806C7B5936C0AF0AFF2269DB90DE69"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
 </td>
-<td width="50%">
-
-### ⏱️ OverTime
-Employee overtime tracking & approval workflow system with automated reporting.
-
-`.NET` `ASP.NET Core` `SQL Server` `Angular`
-
-<a href="https://github.com/SoukaynaFR/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/SAP-8B78FF?style=for-the-badge&logo=sap&logoColor=white" width="200"/>
+<h4>SAP Business Technology Platform</h4>
+<p><sub>SAP Learning · Jul 2025</sub></p>
+<a href="https://www.credly.com/badges/4e72ed36-3d89-4bfc-b150-c8b245743bf6/linked_in_profile"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-
-### ⛓️ Hyperledger Fabric Network
-Permissioned blockchain network exploring distributed ledger concepts for secure, auditable transactions.
-
-`Hyperledger Fabric` `Node.js` `Docker`
-
-<a href="https://github.com/SoukaynaFR/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/COURSERA-8B78FF?style=for-the-badge&logo=coursera&logoColor=white" width="200"/>
+<h4>Generative AI: Prompt Engineering</h4>
+<p><sub>Coursera · Apr 2025</sub></p>
+<a href="https://www.credly.com/badges/7903e0aa-2bd5-49d7-8205-e22f997df8e7/linked_in_profile"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/LINKEDIN-8B78FF?style=for-the-badge&logo=linkedin&logoColor=white" width="200"/>
+<h4>DevOps Foundations</h4>
+<p><sub>LinkedIn Learning · Aug 2023</sub></p>
+<a href="https://www.linkedin.com/learning/certificates/6b5b12129301003f50cf019befb9602ff2d99553ff10c87c86daec18caa5f4e4/"><img src="https://img.shields.io/badge/View_Credential-211D33?style=for-the-badge"/></a>
 </td>
 </tr>
 </table>
-
-> 💡 *Swap `REPO_NAME` for your actual repo names once this is live.*
 
 </div>
 
@@ -138,19 +124,22 @@ Grouped by how I actually reach for them — not just a wall of logos.
 **🟣 Daily Toolkit** — *what I build with most days*
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-> C# / .NET and Java / Spring Boot are my two native tongues — I switch between them depending on the shop, not the task.
+
 
 <br/>
 
 **🔵 Comfortable With** — *reach for these without a second thought*
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 
 <br/>
 
 **🌱 Currently Growing Into**
 
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 
 > The next chapter: taking what I build locally and making it deploy, scale, and monitor itself properly.
@@ -159,6 +148,7 @@ Grouped by how I actually reach for them — not just a wall of logos.
 
 **🎨 Also in the Kit**
 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ---
@@ -209,24 +199,9 @@ Grouped by how I actually reach for them — not just a wall of logos.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/output/github-snake.svg" />
-</picture>
-
-> ⚙️ Requires the [platane/snk](https://github.com/Platane/snk) GitHub Action set up in a repo named `SoukaynaFR/SoukaynaFR`.
-
-</div>
-
----
-
 <div align="center">
 
 <img src="./assets/footer.svg" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=SoukaynaFR&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
 
 </div>
