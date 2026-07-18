@@ -46,7 +46,7 @@ Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book
 <table>
 <tr>
 <td width="50%" valign="top">
-**⚙️ Engineering Principles**
+ ⚙️ Engineering Principles
  
 🏛️ **Clean Architecture**<br/>
 🎯 **Domain-Driven Design**<br/>
@@ -57,7 +57,7 @@ Off the clock, I'm probably 🧶 crocheting between commits, lost in a good book
  
 </td>
 <td width="50%" valign="top">
-**🧠 How I Think**
+🧠 How I Think
  
 🧩 Problem solver — the messier, the better<br/>
 🎨 Detail-obsessed — pixel-perfect is a minimum<br/>
