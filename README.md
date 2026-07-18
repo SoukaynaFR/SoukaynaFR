@@ -162,10 +162,8 @@ Grouped by how I actually reach for them — not just a wall of logos.
   <img alt="3D contribution graph" src="https://raw.githubusercontent.com/SoukaynaFR/SoukaynaFR/main/profile-3d-contrib/profile-day-rainbow.svg" />
 </picture>
 
-### 🏆 Trophies
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SoukaynaFR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
 
+</div>
 
 ---
 
