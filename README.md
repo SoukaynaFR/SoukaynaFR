@@ -163,9 +163,9 @@ Grouped by how I actually reach for them — not just a wall of logos.
 </picture>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=SoukaynaFR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SoukaynaFR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
+
 
 ---
 
